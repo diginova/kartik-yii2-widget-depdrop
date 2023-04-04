@@ -30,7 +30,7 @@
     "minimum-stability": "dev",
     "require": {
         "kartik-v/yii2-krajee-base": ">=2.0.0",
-        "diginova/kartik-dependent-dropdown": "@dev"
+        "diginova/kartik-dependent-dropdown": "dev-master"
     },
     "autoload": {
         "psr-4": {
