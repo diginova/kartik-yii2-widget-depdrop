@@ -35,10 +35,5 @@
         "psr-4": {
             "kartik\\depdrop\\": "src"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
     }
 }
