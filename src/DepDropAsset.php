@@ -24,7 +24,7 @@ class DepDropAsset extends AssetBundle
      */
     public function init()
     {
-        $this->setSourcePath('@vendor/kartik-v/dependent-dropdown');
+        $this->setSourcePath('@vendor/diginova/kartik-dependent-dropdown');
         $this->setupAssets('css', ['css/dependent-dropdown']);
         $this->setupAssets('js', ['js/dependent-dropdown']);
         parent::init();
